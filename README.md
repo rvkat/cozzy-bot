@@ -1,0 +1,2 @@
+# cozzy-bot
+Cozzy Bot
